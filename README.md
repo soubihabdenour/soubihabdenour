@@ -15,7 +15,7 @@
 🧪 &nbsp;I design and run **large-scale federated learning experiments** under **non-IID data distributions**.  
 🌱 &nbsp;Currently learning more about **robust aggregation, privacy-preserving ML, and distributed AI systems**.  
 💬 &nbsp;Happy to discuss **FL security, ML systems, or research collaborations**.  
-✉️ &nbsp;You can reach me at: **your_email@skku.edu**  
+✉️ &nbsp;You can reach me at: **abdenour@skku.edu**  
 📄 &nbsp;Have a look at my **CV / Research Portfolio** *(add link)* — feedback is always welcome.
 
 <img 
