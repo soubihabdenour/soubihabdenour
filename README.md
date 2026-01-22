@@ -68,10 +68,10 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/-Research%20Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://infolab-skku.github.io/members/abdenour-soubih.html"><img src="https://img.shields.io/badge/-Research%20Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/abdenour-soubih-5ba56a15a/"><img src="https://img.shields.io/badge/-Abdenour%20Soubih-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:your_email@skku.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white"/></a>
+<a href="mailto:abdenour@skku.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://scholar.google.com/citations?user=dxgFhR8AAAAJ"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white"/></a>
 </p>
 
 ---
