@@ -21,12 +21,10 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
 
-#### **Systems & Distributed ML**
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 
-#### **Federated Learning & IoT**
 ![Federated Learning](https://img.shields.io/badge/-Federated%20Learning-05122A?style=flat)&nbsp;
 ![FIWARE](https://img.shields.io/badge/-FIWARE-05122A?style=flat)&nbsp;
 ![MQTT](https://img.shields.io/badge/-MQTT-05122A?style=flat)&nbsp;
