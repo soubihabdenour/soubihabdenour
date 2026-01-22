@@ -15,7 +15,7 @@
   alt="Night Coding"
   src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
   align="right"
-  style="margin-right: 400px;"
+  style="margin-right: 80px;"
 />
 
 
